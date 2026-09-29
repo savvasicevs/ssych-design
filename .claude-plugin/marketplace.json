@@ -1,0 +1,17 @@
+{
+  "name": "ssych",
+  "description": "ssych for Claude Code: the Generator design skill.",
+  "owner": {
+    "name": "Savva Sicevs",
+    "url": "https://ssych.com"
+  },
+  "plugins": [
+    {
+      "name": "ssych-design",
+      "source": "./",
+      "description": "The ssych Generator: design landing pages and product screens in the ssych style with Claude.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}
